@@ -1,0 +1,117 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    text-align: justify;
+    padding: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.square-link{
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.square-link:hover{
+
+    color:#ffffff;
+    background-color: #05aa6d;
+
+}
+
+
+#big-title-area{
+    background-color: #282a35;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1{
+    color: #fff;
+    font-size: xx-large;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2{
+    color: #ffc0cb;
+
+}
+
+#website-link{
+    background-color: #ffc0cb;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+#website-link:hover{
+        color:#ffffff;
+    background-color: #05aa6d;
+}
+
+
+#paid-courses-link{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+#paid-courses-link:hover{
+        color:#ffffff;
+    background-color: #05aa6d;
+}
+
+#login-link{
+    color: #fff;
+    background-color: #05aa6d;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+#login-link:hover{
+        color:#ffffff;
+    background-color: #5a905a;
+}
+
+form{
+    border-radius: 16px;
+    font-size: 16px;
+}
+
+input{
+font-size: 16px;
+    padding: 15px;
+    padding-left: 25px;
+    margin: 0;
+}
+
+button{
+    font-size: 16px;
+    padding: 15px;
+    background-color: #05aa6d;
+    width: 90px;
+}
+
+#begin-link{
+   
+}
+
+#begin-link > h2{
+    color: #fff;
+     text-decoration: underline #ffffff;
+}
+
+#begin-link > h2:hover{
+    color: #008000;
+     text-decoration: underline #05aa6d;
+
+}
+
